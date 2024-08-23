@@ -1,0 +1,12 @@
+.contenedor{
+    display:flex ;
+    justify-content: center;
+    align-items: center;
+}
+.veterinaria{
+    background-color: blue;
+    color: white;
+    border: red 5px solid;
+    padding-left: 1%;
+    padding-right: 1%;
+}
